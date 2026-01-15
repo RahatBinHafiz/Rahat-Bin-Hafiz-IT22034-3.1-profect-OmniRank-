@@ -124,11 +124,11 @@ Follow these steps to set up the project locally.
 ## 👥 Team & Acknowledgements
 
 **Project Team (MBSTU - ICT Dept):**
-* **Rahat Bin Hafiz** (ID: IT22034) - *Lead Developer & Backend*
+* **Rahat Bin Hafiz** (ID: IT22034) - *Lead Developer & Backend, Database*
    * 📞 Contact: (+880) 1521-700491
    * 📧 Email: rahatbinhafiz40@gmail.com
 * **Shourav Mallik** (ID: IT22032) - *Frontend & UI/UX*
-* **Md. Tanvir Islam Shovon** (ID: IT22036) - *Database & Documentation*
+* **Md. Tanvir Islam Shovon** (ID: IT22036) - *Documentation*
 
 **Supervised By:**
 * **Dr. Ziaur Rahman**
